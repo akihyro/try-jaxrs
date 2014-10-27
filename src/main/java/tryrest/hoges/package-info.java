@@ -1,0 +1,4 @@
+/**
+ * ほげ。
+ */
+package tryrest.hoges;
